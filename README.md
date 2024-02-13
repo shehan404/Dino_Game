@@ -2,7 +2,7 @@
 
 https://github.com/shehan404/Dino_Game/assets/116341155/22db8875-4523-49d0-9e03-c60dbb5300e2
 
-This is a recreation of the classic Dinosaur Game from Google Chrome. It's made entirely from scratch.
+This is a recreation of the classic Dinosaur Game from Google Chrome. It's made entirely from scratch using Processing.
 
 In this game, you control a dinosaur running through a desert. Your goal is to jump over obstacles like cacties. The longer you run, the faster it gets.
 
